@@ -5,8 +5,8 @@
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "Kevin Callaghan",
-  "license": "MIT",
+  "author": "2U",
+  "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-runtime": "^7.15.0",
