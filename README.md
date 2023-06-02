@@ -19,11 +19,15 @@ This simple text editor allows you to write and save text snippets in the browse
 
 To install the editor as a PWA, open the program in chrome and then click the "Install" button.  When prompted, click "Install" again and you will be able to use the PWA version of the editor!
 
+If the Install button doesn't work on first attempt, there is a button to download and install located to the right of the URL:
+
+![Install Button](assets/DownloadButton.png)
+
 
 ## Usage
 
 
-Here is a link to the deployed site on Heroku:
+Here is a link to the deployed site on Heroku: https://code-snippet-editor.herokuapp.com/ 
 
 To use the app in the browser, simply visit the page and begin typing.  To use the app as a PWA, follow the install instructions above and then you can use the app while offline!
 
