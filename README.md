@@ -21,7 +21,7 @@ To install the editor as a PWA, open the program in chrome and then click the "I
 
 If the Install button doesn't work on first attempt, there is a button to download and install located to the right of the URL:
 
-![Install Button](assets/DownloadButton.png)
+![Install Button](Assets/DownloadButton.png)
 
 
 ## Usage
@@ -33,11 +33,11 @@ To use the app in the browser, simply visit the page and begin typing.  To use t
 
 <b>Here is a sample of the editor:</b>
 
-![PWA Screenshot](assets/screenshot1.png)
+![PWA Screenshot](Assets/screenshot1.png)
 
 <b>Here is a sample of the manifest viewed in the Dev Tools</b>
 
-![Manifest Screenshot](assets/manifestScreenshot.png)
+![Manifest Screenshot](Assets/manifestScreenshot.png)
 
 
 ## Credits
