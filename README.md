@@ -27,7 +27,7 @@ If the Install button doesn't work on first attempt, there is a button to downlo
 ## Usage
 
 
-Here is a link to the deployed site on Heroku: https://code-snippet-editor.herokuapp.com/ 
+Here is a link to the deployed site on Heroku: <a href='https://code-snippet-editor.herokuapp.com/' target='_blank'>https://code-snippet-editor.herokuapp.com</a> 
 
 To use the app in the browser, simply visit the page and begin typing.  To use the app as a PWA, follow the install instructions above and then you can use the app while offline!
 
