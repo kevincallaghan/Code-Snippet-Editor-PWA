@@ -2,7 +2,7 @@
 
 ## Description
 
-This simple text editor allows you to write and save text snippets in the browser.  It is set up as a PWA, which allows the user to download/install from the browser and use the editor while offline, and still save the edits made!
+This simple text editor allows you to write and save text snippets in the browser.  It is set up as a PWA, which allows the user to download/install from the browser and use the editor while offline, and still save the edits made!  
 
 
 ## Table of Contents
